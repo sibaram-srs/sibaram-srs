@@ -8,9 +8,11 @@
 
 <div align="center">
  
- ☁️ I'm Sibaram S, a Azure DevOps Engineer with hands-on experience in building, automating, and managing cloud infrastructure on Microsoft Azure..
+ ☁️ I'm Sibaram, an Azure DevOps Engineer with hands-on experience in designing, automating, and managing cloud infrastructure on Microsoft Azure.
 
-🚀 Specialized in CI/CD pipeline automation, Infrastructure as Code (Terraform), containerization with Docker, orchestration using Kubernetes, and cloud monitoring solutions.
+🚀 Specialized in CI/CD pipeline automation, Infrastructure as Code (Terraform), containerization with Docker, orchestration using Kubernetes, and cloud monitoring & observability solutions.
+
+🔧 Passionate about building scalable, secure, and highly available cloud environments while streamlining software delivery through DevOps best practices.
 
  </div>
  
